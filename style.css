@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #25251B;
+    font-family: "Lexend Exa", sans-serif;
+    font-weight: lighter;
+}
+header {
+    padding: 3%;
+    gap: 40%;
+    position: absolute;
+}
+.full-screen {
+    width: 100%;
+}
