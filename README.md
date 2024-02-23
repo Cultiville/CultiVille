@@ -23,6 +23,8 @@ O CultiveVille é uma plataforma online que facilita a compra e venda de produto
 ### Contribuindo
 O CultiveVille é um projeto em constante evolução, e valorizamos a contribuição da nossa comunidade. Se você tem ideias para melhorar nossa plataforma ou gostaria de compartilhar seu conhecimento sobre agricultura urbana, entre em contato conosco!
 
+### Dependências 
+O seu computador precisa ter acesso a internet para poder visualizar o projeto.
 
 ## Ferramentas
 
